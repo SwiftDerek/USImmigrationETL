@@ -318,5 +318,4 @@ venv.bak/
 .mypy_cache/
 
 /extraction/
-/load/
 /test.py
